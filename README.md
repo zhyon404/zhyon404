@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![](https://cdn.vox-cdn.com/thumbor/GVCeaYb9zYq-w0_K2sxQasdT82I=/0x0:900x500/1820x1213/filters:focal(378x178:522x322):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/49493993/this-is-fine.0.jpg)
+
 <!--
 **zhyon404/zhyon404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
