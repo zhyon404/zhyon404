@@ -1,3 +1,12 @@
+<a href="https://github.com/zhyon404">
+  <img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?theme=radical&username=zhyon404&show_icons=true&include_all_commits=true" />
+</a>
+<a href="https://github.com/zhyon404">
+  <img align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?theme=radical&username=zhyon404&layout=compact" />
+</a>
+
+
+
 ### Hi there 👋
 
 ![](https://storage.googleapis.com/this-is-fine-images/this_is_fine.png)
